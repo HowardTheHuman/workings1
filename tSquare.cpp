@@ -1,3 +1,10 @@
+/*
+ * Author: Howard Fung
+ * Description: Simple codeforce challenge to calculate 
+ * the ceiling of an area being covered by tiles
+ * http://codeforces.com/problemset/problem/1/A
+ */
+
 #include <stdio.h>
 #include <cstdlib>
 
